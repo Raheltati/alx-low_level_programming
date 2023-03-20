@@ -21,11 +21,11 @@ int main(void)
 				if (n + m != 17)
 				{
 					putchar(',');
-			putchar(' ');
+					putchar(' ');
 				}
 			}
 		}
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
