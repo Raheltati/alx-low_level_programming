@@ -5,5 +5,5 @@
 #include <string.h>
 int _isdigit(int c)
 {
-	return isgigit(c);
+	return isdigit(c);
 }
