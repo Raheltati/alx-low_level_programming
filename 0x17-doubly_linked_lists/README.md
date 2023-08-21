@@ -1,1 +1,1 @@
-doublt links
+doubly links
